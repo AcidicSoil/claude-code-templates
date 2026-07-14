@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T06:08:35.665255+00:00",
+  "lastUpdated": "2026-07-14T05:23:37.479111+00:00",
   "totalJobs": 99,
   "sources": [
     "Anthropic",
@@ -7,6 +7,45 @@
     "WeWorkRemotely"
   ],
   "jobs": [
+    {
+      "id": "hn-48900749",
+      "company": "Namecoach/Euphonia",
+      "position": "AI Engineer",
+      "location": "SF or Remote",
+      "remote": true,
+      "salary": "",
+      "description": "Namecoach has spent 10 years building the largest verified pronunciation dataset of its kind: ~2M self-recorded name pronunciations, plus a large corpus of human-verified phonetic spellings. We're now building Euphonia ( https://euphonia.namecoach.ai/ ), a provider-neutral middleware layer that...",
+      "applyUrl": "https://news.ycombinator.com/item?id=48900749",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com/item?id=48900749",
+      "postedAt": "2026-07-14T00:20:28+00:00",
+      "tags": [
+        "Claude Code",
+        "Cursor"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "anth-5342935008",
+      "company": "Anthropic",
+      "position": "Staff+ Software Engineer, Safeguards Review Tooling",
+      "location": "San Francisco, CA",
+      "remote": false,
+      "salary": "",
+      "description": "The Safeguards team is responsible for ensuring our models and products are developed and deployed safely. We're looking for engineers for our Review Tooling team, which builds the systems that humans — and increasingly Claude — use to investigate potential harms and take enforcement actions across...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5342935008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5342935008",
+      "postedAt": "2026-07-13T12:57:38-04:00",
+      "tags": [
+        "Rust",
+        "AWS",
+        "Claude Code",
+        "Rails",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
     {
       "id": "anth-5311465008",
       "company": "Anthropic",
@@ -1130,28 +1169,6 @@
       "companyIcon": ""
     },
     {
-      "id": "hn-48358657",
-      "company": "*Scribd",
-      "position": "Lead Product Manager",
-      "location": "REMOTE*",
-      "remote": true,
-      "salary": "",
-      "description": "Scribd, Inc. is on a mission to advance human understanding. Our four products — Scribd®, Slideshare®, Everand™, and Fable — help billions of people across the globe move beyond access and into insight, application, and expertise. We're a YC '06 company — one of the oldest still around — running...",
-      "applyUrl": "https://news.ycombinator.com/item?id=48358657",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com/item?id=48358657",
-      "postedAt": "2026-06-01T16:01:15+00:00",
-      "tags": [
-        "TypeScript",
-        "Python",
-        "AWS",
-        "Claude Code",
-        "Ruby",
-        "Rails"
-      ],
-      "companyIcon": ""
-    },
-    {
       "id": "hn-48358370",
       "company": "Cora AI",
       "position": "AI Engineer",
@@ -1811,28 +1828,6 @@
         "GCP",
         "Azure",
         "Kubernetes",
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
-    },
-    {
-      "id": "anth-5173031008",
-      "company": "Anthropic",
-      "position": "Manager of Applied AI Architecture, Partnerships",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "remote": false,
-      "salary": "",
-      "description": "As the Manager of the Partnerships Applied AI Solutions Architect team, you will drive adoption of frontier AI by enabling deployment of Anthropic’s products (Claude for Enterprise, Claude Code, API) through our Global and Regional System Integrators, cloud partners (AWS, GCP, Azure), and strategic...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5173031008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5173031008",
-      "postedAt": "2026-04-01T16:58:51-04:00",
-      "tags": [
-        "Rust",
-        "AWS",
-        "GCP",
-        "Azure",
         "Claude Code",
         "Anthropic"
       ],
