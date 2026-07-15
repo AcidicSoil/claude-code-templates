@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-14T05:23:37.479111+00:00",
-  "totalJobs": 99,
+  "lastUpdated": "2026-07-15T05:24:45.206908+00:00",
+  "totalJobs": 102,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -1169,6 +1169,28 @@
       "companyIcon": ""
     },
     {
+      "id": "hn-48358657",
+      "company": "*Scribd",
+      "position": "Lead Product Manager",
+      "location": "REMOTE*",
+      "remote": true,
+      "salary": "",
+      "description": "Scribd, Inc. is on a mission to advance human understanding. Our four products — Scribd®, Slideshare®, Everand™, and Fable — help billions of people across the globe move beyond access and into insight, application, and expertise. We're a YC '06 company — one of the oldest still around — running...",
+      "applyUrl": "https://news.ycombinator.com/item?id=48358657",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com/item?id=48358657",
+      "postedAt": "2026-06-01T16:01:15+00:00",
+      "tags": [
+        "TypeScript",
+        "Python",
+        "AWS",
+        "Claude Code",
+        "Ruby",
+        "Rails"
+      ],
+      "companyIcon": ""
+    },
+    {
       "id": "hn-48358370",
       "company": "Cora AI",
       "position": "AI Engineer",
@@ -1834,6 +1856,28 @@
       "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
+      "id": "anth-5173031008",
+      "company": "Anthropic",
+      "position": "Manager of Applied AI Architecture, Partnerships",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "remote": false,
+      "salary": "",
+      "description": "As the Manager of the Partnerships Applied AI Solutions Architect team, you will drive adoption of frontier AI by enabling deployment of Anthropic’s products (Claude for Enterprise, Claude Code, API) through our Global and Regional System Integrators, cloud partners (AWS, GCP, Azure), and strategic...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5173031008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5173031008",
+      "postedAt": "2026-04-01T16:58:51-04:00",
+      "tags": [
+        "Rust",
+        "AWS",
+        "GCP",
+        "Azure",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
       "id": "anth-5146298008",
       "company": "Anthropic",
       "position": "Staff Software Engineer, Billing Platform",
@@ -1961,6 +2005,28 @@
         "Rust",
         "AWS",
         "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
+      "id": "anth-5075093008",
+      "company": "Anthropic",
+      "position": "Strategic Account Executive, Cybersecurity",
+      "location": "San Francisco, CA",
+      "remote": false,
+      "salary": "",
+      "description": "As a Strategic Account Executive focused on cybersecurity, you'll own some of Anthropic's most strategic cybersecurity relationships—companies building the next generation of AI-powered security products. These aren't typical enterprise accounts; they're partners shaping how AI transforms the...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5075093008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5075093008",
+      "postedAt": "2026-01-27T23:00:33-05:00",
+      "tags": [
+        "Rust",
+        "AWS",
+        "Claude Code",
+        "Copilot",
+        "Rails",
         "Anthropic"
       ],
       "companyIcon": "https://www.anthropic.com/favicon.ico"
